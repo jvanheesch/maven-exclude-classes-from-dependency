@@ -15,7 +15,7 @@
     <dependencies>
         <dependency>
             <groupId>com.github.jvanheesch</groupId>
-            <artifactId>3rd-party-jar</artifactId>
+            <artifactId>3rd-party-jar-wrapper</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
